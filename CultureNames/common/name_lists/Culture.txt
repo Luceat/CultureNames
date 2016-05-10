@@ -1,0 +1,227 @@
+### Culturan 1
+CUL1 = {
+	### SHIPS
+
+	ship_names = {
+
+		generic = {
+			"A Fine Disregard for Awkward Facts" "A Momentary Lapse Of Sanity" "A Series Of Unlikely Explanations" 
+			"A Ship With A View" "Ablation" "Advanced Case Of Chronic Patheticism" "All The Same, I Saw It First" 
+			"All Through With This Niceness And Negotiation Stuff" "Another Fine Product From The Nonsense Factory" 
+			"Anticipation Of A New Lover's Arrival, The" "Arbitrary" "Armchair Traveller" "Arrested Development" 
+			"Attitude Adjuster" "Awkward Customer" "Bad For Business" "Big Sexy Beast" "Bodhisattva" "Boo!" 
+			"Bora Horza Gobuchul" "But Who's Counting?" "Caconym" "Cantankerous" "Cargo Cult" "Charitable View" 
+			"Charming But Irrational" "Clipper Screw Loose" "Congenital Optimist" "Contents May Differ Atmosphere" 
+			"Conventional Wisdom" "Credibility Problem" "Cruise Ship Just Passing Through" "Culture Eccentric Ue Mistake Not…" 
+			"Death and Gravity" "Demented But Determined" "Determinist System" "Different Tan" "Displacement Activity" 
+			"Don't Try This At Home Steppe" "Dramatic Exit" "Eight Rounds Rapid" "Empiricist System" "Eschatologist (temporary name)" 
+			"Ethics Gradient Range" "Excuses And Accusations" "Experiencing A Significant Gravitas Shortfall" 
+			"Experiencing A Significant Gravitas Shortfall" "Falling Outside The Normal Moral Constraints" 
+			"Fate Amenable To Change" "Fine Till You Came Along" "Flexible Demeanour" "Frank Exchange Of Views" 
+			"Full Refund (formerly MBU 604)" "Funny, It Worked Last Time..." "Germane Riposte" "God Told Me To Do It" 
+			"Grey Area (aka Meatfucker)" "Gunboat Diplomat" "Halation Effect" "Hand Me The Gun And Ask Me Again" 
+			"Happy Idiot Talk" "Headcrash Delinquent" "Heavy Messing" "Helpless In The Face Of Your Beauty" "Heresiarch" 
+			"Hidden Income" "Highpoint" "Honest Mistake" "Hylozoist" "I Blame My Mother" "I Blame The Parents" 
+			"I Blame Your Mother" "I Said, I've Got A Big Stick" "I Thought He Was With You" "In One Ear" 
+			"Inappropriate Response" "Injury Time" "Irregular Apocalypse" "It'll Be Over By Christmas" 
+			"It's Character Forming" "It's My Party And I'll Sing If I Want To" "Jaundiced Outlook Ridge" 
+			"Just Another Victim Of The Ambient Morality" "Just Read The Instructions" "Just Testing" 
+			"Just the Washing Instruction Chip in Life's Rich Tapestry" "Kakistocrat" "Killing Time" "Kiss My Ass" 
+			"Kiss This Then" "Lacking That Small Match Temperament" "Lapsed Pacifist" "Lasting Damage" "Lasting Damage I" 
+			"Lasting Damage II" "later Sleeper Service" "LCU Anything Legal Considered" "LCU Beats Working" "Learned Response" 
+			"Lightly Seared On The Reality Grill" "Limiting Factor Murderer" "Limivorous Ocean" "Little Rascal" 
+			"Liveware Problem" "Lucid Nonsense" "Me, I'm Counting" "Me, I'm Counting provides the answer" "Minority Report" 
+			"Misophist" "Nervous Energy" "Never Talk To Strangers" "New Toy" "No Fixed Abode" "No More Mr Nice Guy" 
+			"No One Knows What The Dead Think" "Not Invented Here" "Not Wanted On Voyage" "Now Look What You've Made Me Do" 
+			"Now We Try It My Way" "Nuisance Value" "Of Course I Still Love You" "Only Slightly Bent" 
+			"Outstanding Contribution to the Historical Process" "Passing By And Thought I'd Drop In" "Pelagian Equator" 
+			"Perfidy" "Poke It With A Stick" "Pressure Drop" "Pride Comes Before A Fall" "Prime Mover" "Problem Child" 
+			"Profit Margin" "Prosthetic Conscience" "Pure Big Mad Boat Man" "Qualifier" "Questionable Ethics" "Quietly Confident" 
+			"Rapid Random Response Unit" "Ravished By The Sheer Implausibility Of That Last Statement" "Reasonable Excuse" 
+			"Recent Convert" "Reformed Nice Guy" "Refreshingly Unconcerned With the Vulgar Exigencies of Veracity" 
+			"Resistance Is Character-Forming" "Revisionist" "Sacrificial Victim" "Sanctioned Parts List" "Seed Drill Ocean" 
+			"Sense Amid Madness, Wit Amidst Folly" "Serious Callers Only" "Shoot Them Later" "Size Isn't Everything" 
+			"Smile Tolerantly" "So Much For Subtlety" "Someone Else's Problem" "Space Monster" "Steely Glint" 
+			"Stranger Here Myself" "Subtle Shift In Emphasis" "Sweet and Full of Grace" "Synchronize Your Dogmas" 
+			"Tactical Grace" "Teething Problems" "Thank You And Goodnight" "The Ends Of Invention" 
+			"The Precise Nature Of The Catastrophe" "The Usual But Etymologically Unsatisfactory" 
+			"Thorough But... Unreliable" "Total Internal Reflection" "Trade Surplus" "Transient Atmospheric Phenomenon" 
+			"Ultimate Ship The Second" "Unacceptable Behaviour" "Undesirable Alien" "Unfortunate Conflict Of Evidence" 
+			"Uninvited Guest" "Unreliable Witness" "Unwitting Accomplice" "Use Psychology" "Value Judgement" 
+			"Very Little Gravitas Indeed" "Vulgarian" "Warm, Considering" "We Haven't Met But You're A Great Fan Of Mine" 
+			"Well I Was In The Neighbourhood" "What Are The Civilian Applications?" "What Is The Answer and Why?" "Wisdom Like Silence" 
+			"Xenocrat Delinquent" "Xenoglossicist" "Xenophobe" "Yawning Angel" "You Call This Clean?" 
+			"You May Not Be The Coolest Person Here" "You Naughty Monsters" "You Would If You Really Loved Me" 
+			"You'll Clean That Up Before You Leave" "You'll Thank Me Later" "Youthful Indiscretion" "Zealot" 
+			"Zero Credibility" "Zero Gravitas" "Zoologist"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			random_names = { }
+			sequential_name = "%O% Frontier Outpost"
+		}
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	fleet_names = {
+		random_names = {
+			"Joint Expeditionary Fleet" "Strategic Readiness Fleet" "Tactical Response Fleet" "Rapid Offensive Fleet" "Forward Defense Fleet"
+		}
+		sequential_name = "%O% Stellar Fleet"
+	}
+	
+	army_names = {
+	
+		defense_army = {
+			sequential_name = "%O% Colonial Watch"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Assault Group"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Penal Corps"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Tankbred Regulars"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Battle Drone Wing"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Droid Commando"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Psi-Ops Command"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Shock Swarm"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Purebloods"
+		}
+	}
+
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			names = {
+			 	  "Xinth" "Vavatch" "Masaq'" "Chiark" "Dinyol-hei" "Dibaldipen" "Marjoin"
+			 	  "Aorme" "Sladden" "Sorpen" "Vreccis" "Stafl-Preon" "Sintrier"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+				"Phage Rock" "Pittance"
+			}
+		}
+		
+		pc_continental = {
+			names = {
+				"Pavul" "Sichult" "Nauptria" "Narisca" "Issorile"
+				"Idir" "Eä" "Chel" "Bulthmaas"
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+				"Telaturier"
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+		
+	}
+
+	### CHARACTERS
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				Diziet Gurgeh Horza Perosteck Fal Xossin Mahrai Feli
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				"Xinthsa" "Vavatchsa" "Masaq'sa" "Chiarksa" "Dinyol-heisa" 
+				"Dibaldipensa" "Pavulsa" "Sichultsa" "Nauptriasa" "Nariscasa" 
+				"Issorilesa" "Idirsa" "Eäsa" "Chelsa" "Bulthmaassa" "Telaturiersa"
+				"Marjoinsa" "Aormesa" "Sladdensa" "Sorpensa" "Vreccissa"
+			}
+			
+			regnal_first_names = {
+				Diziet Gurgeh Horza Perosteck Fal Xossin Mahrai Feli
+			}
+			
+			regnal_second_names = {
+				"Xinthsa" "Vavatchsa" "Masaq'sa" "Chiarksa" "Dinyol-heisa" 
+				"Dibaldipensa" "Pavulsa" "Sichultsa" "Nauptriasa" "Nariscasa" 
+				"Issorilesa" "Idirsa" "Eäsa" "Chelsa" "Bulthmaassa" "Telaturiersa"
+				"Marjoinsa" "Aormesa" "Sladdensa" "Sorpensa" "Vreccissa"
+			}
+		}
+	}
+}
